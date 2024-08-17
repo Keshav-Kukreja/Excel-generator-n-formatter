@@ -6,11 +6,11 @@ It's a simple tool to generate sample sale and also to format excel sheets for n
 
 To try it out run
 
-'''
+```
 mkdir files
 mkdir output
 python main.py
-'''
+```
 If you want to try formatter function a sample file is stored in sample folder, just copy it into files folder.
 
 a window with two options will appear:
