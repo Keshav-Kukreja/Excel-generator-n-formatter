@@ -5,7 +5,7 @@ from pages.Excel_formatter import __view__ as excel_formatter
 
 def main(page:Page):
     # page
-    page.title="Name it later"
+    page.title="Excel Generator and Formatter"
     page.window.height=450
     page.window.width=800
     page.window.frameless=False
