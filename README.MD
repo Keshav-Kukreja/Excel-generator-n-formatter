@@ -5,6 +5,7 @@
 It's a simple tool to generate sample sale and also to format excel sheets for now it can only format GSTR-2A and GSTR-2B data downloaded from Compuoffice software
 
 To try it out run
+
 '''
 mkdir files
 mkdir output
