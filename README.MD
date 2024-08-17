@@ -4,12 +4,14 @@
 
 It's a simple tool to generate sample sale and also to format excel sheets for now it can only format GSTR-2A and GSTR-2B data downloaded from Compuoffice software
 
-If you want to try this function a sample file is stored in sample folder, just copy it into files folder and run
+To try it out run
 '''
 mkdir files
 mkdir output
 python main.py
 '''
+If you want to try formatter function a sample file is stored in sample folder, just copy it into files folder.
+
 a window with two options will appear:
 - Sale generator
 - Excel formatter
